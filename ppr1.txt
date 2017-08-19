@@ -1,0 +1,31 @@
+we research on user's current requirement and for fill that particular requirement we planned make an effective nd faster service they want.
+
+
+
+
+when the user chat with a machine it will not for human response it generate automatic answer for the user.it is very confusing for the user and we have to generate that phase that is very challenging phase for us.
+
+
+
+we need support of web service, Already exist chatbots (eg.natasha on hike), Easy languages that can understand by the user and the user requirement for making an effective chatbot.
+
+
+
+The different in chat application that only between human beings, but the research of many years that the human beings can also search for better ans for latest updates, latest updates, latest technology. it's goal is to increase the amount of knowledge regarding effective communication tool.
+
+
+ppr2
+
+
+
+The basically chatbot is used to human required the information and machine can listening and the machine generates auto responds quickly.
+We had just looked out how it will communicate with human being and a machine.
+
+To the making, a new FB chatbot to use new AI method and machine can learn something.
+The enough knowledge limitations.
+Make it a proper chatbot as all people is using it in day to day life.
+
+We needs Web services, Already exist chatbots, Users reviews and demands. we also needs support of a perfect language for making an effective FB chatbot. 
+
+As a literature we have used chat applications only between human beings with machines, that varies for the latest updates, latest systems, latest technology and many more.
+
